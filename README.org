@@ -1,0 +1,17 @@
+#+TITLE:	JSON-Resume
+#+SUBTITLE:	README
+#+DATE:		2025-05-12 06:20:55-04:00
+#+LASTMOD: 2025-05-12 06:32:49-0400 (EDT)
+#+OPTIONS:	toc:nil num:nil
+#+STARTUP:	indent showeverything
+#+CATEGORIES[]:	Projects
+#+TAGS[]:	readme python json resume jobhunting employment
+
+* URLs
+- [[https://www.bomberbot.com/django/building-a-stunning-digital-resume-with-django-and-python-a-full-stack-developers-guide/][Building a Stunning Digital Resume with Django and Python: A Full-Stack Developer‘s Guide]]
+- [[https://github.com/palevell/JSON-Resume][GitHub]]
+
+* Description
+This creates a JSON version of my resume, using the Django project as a starting point
+
+* To Do

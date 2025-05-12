@@ -1,0 +1,2490 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 9 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (mailto:patrick@levell.tech)
+>> /Border [ 0 0 0 ] /Rect [ 156.6734 722.9921 240.7334 734.9921 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://levell.tech)
+>> /Border [ 0 0 0 ] /Rect [ 270.9134 722.9921 315.3734 734.9921 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.linkedin.com/in/palevell)
+>> /Border [ 0 0 0 ] /Rect [ 365.0134 722.9921 467.8234 734.9921 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R ] /Contents 27 0 R /MediaBox [ 0 0 612 792 ] /Parent 26 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Contents 28 0 R /MediaBox [ 0 0 612 792 ] /Parent 26 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Contents 29 0 R /MediaBox [ 0 0 612 792 ] /Parent 26 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+11 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 13 0 R /XYZ 40.34646 54.95276 0 ] /Rect [ 409.4965 158.3921 413.9445 167.9921 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 13 0 R /XYZ 409.4965 166.9921 0 ] /Rect [ 40.34646 40.95276 45.90646 52.95276 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/Annots [ 11 0 R 12 0 R ] /Contents 30 0 R /MediaBox [ 0 0 612 792 ] /Parent 26 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+14 0 obj
+<<
+/Outlines 16 0 R /PageLabels 31 0 R /PageMode /UseNone /Pages 26 0 R /Type /Catalog
+>>
+endobj
+15 0 obj
+<<
+/Author () /CreationDate (D:20230327173519+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20230327173519+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Patrick A. Levell) /Trapped /False
+>>
+endobj
+16 0 obj
+<<
+/Count 9 /First 17 0 R /Last 25 0 R /Type /Outlines
+>>
+endobj
+17 0 obj
+<<
+/Dest [ 7 0 R /XYZ 20.17323 508.6457 0 ] /Next 18 0 R /Parent 16 0 R /Title (Professional Experience)
+>>
+endobj
+18 0 obj
+<<
+/Dest [ 8 0 R /XYZ 34.34646 768.9921 0 ] /Next 19 0 R /Parent 16 0 R /Prev 17 0 R /Title (Related Volunteer Work)
+>>
+endobj
+19 0 obj
+<<
+/Dest [ 8 0 R /XYZ 34.34646 422.9921 0 ] /Next 20 0 R /Parent 16 0 R /Prev 18 0 R /Title (Employers)
+>>
+endobj
+20 0 obj
+<<
+/Dest [ 8 0 R /XYZ 34.34646 298.9921 0 ] /Next 21 0 R /Parent 16 0 R /Prev 19 0 R /Title (Education)
+>>
+endobj
+21 0 obj
+<<
+/Dest [ 10 0 R /XYZ 20.17323 768.9921 0 ] /Next 22 0 R /Parent 16 0 R /Prev 20 0 R /Title (Integrated ERP Project Highlights)
+>>
+endobj
+22 0 obj
+<<
+/Dest [ 10 0 R /XYZ 20.17323 574.9921 0 ] /Next 23 0 R /Parent 16 0 R /Prev 21 0 R /Title (Exclusively ERP Project Highlights)
+>>
+endobj
+23 0 obj
+<<
+/Dest [ 13 0 R /XYZ 34.34646 673.9921 0 ] /Next 24 0 R /Parent 16 0 R /Prev 22 0 R /Title (Custom Application Highlights)
+>>
+endobj
+24 0 obj
+<<
+/Dest [ 13 0 R /XYZ 34.34646 389.9921 0 ] /Next 25 0 R /Parent 16 0 R /Prev 23 0 R /Title (Special Projects)
+>>
+endobj
+25 0 obj
+<<
+/Dest [ 13 0 R /XYZ 34.34646 229.9921 0 ] /Parent 16 0 R /Prev 24 0 R /Title (Cryptocurrency Project Highlights)
+>>
+endobj
+26 0 obj
+<<
+/Count 4 /Kids [ 7 0 R 8 0 R 10 0 R 13 0 R ] /Type /Pages
+>>
+endobj
+27 0 obj
+<<
+/Length 11380
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 744.9921 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 567.4803 30 re B*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 201.4802 0 Td (Patrick A. Levell) Tj T* -201.4802 0 Td ET
+Q
+Q
+q
+1 0 0 1 20.17323 722.9921 cm
+q
+BT 1 0 0 1 0 2 Tm 109.8302 0 Td 12 TL /F1 10 Tf 0 0 0 rg (email ) Tj 0 0 .501961 rg (patrick@levell.tech) Tj 0 0 0 rg ( \177 web ) Tj 0 0 .501961 rg (levell.tech) Tj 0 0 0 rg ( \177 LinkedIn ) Tj 0 0 .501961 rg (linkedin.com/in/palevell) Tj  T* -109.8302 0 Td ET
+Q
+Q
+q
+1 0 0 1 20.17323 694.6457 cm
+0 0 0 RG
+n 0 14.17323 m 557.4803 14.17323 l S
+Q
+q
+1 0 0 1 20.17323 688.6457 cm
+Q
+q
+1 0 0 1 20.17323 637.6457 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 38.58937 0 Td (Profile:) Tj T* -38.58937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .124631 Tw (Results-driven Systems Analyst / Developer, Business Analyst, and Bitcoin enthusiast with broad-based) Tj T* 0 Tw .136094 Tw (experience in enhancing system functionality and end-user productivity. Accomplished professional who) Tj T* 0 Tw 3.354631 Tw (has earned a reputation for consistently meeting and exceeding aggressive objectives. Effective) Tj T* 0 Tw (communicator possessing excellent interpersonal and relationship-building skills.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 522.6457 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 103 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 43.57937 0 Td (Skills:) Tj T* -43.57937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 109 cm
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+1 1 1 rg
+n 0 106 460.4409 -16 re f*
+.878431 .878431 .878431 rg
+n 0 90 460.4409 -30 re f*
+1 1 1 rg
+n 0 60 460.4409 -30 re f*
+.878431 .878431 .878431 rg
+n 0 30 460.4409 -30 re f*
+.960784 .960784 .862745 rg
+n 0 106 460.4409 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 93 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 141.4803 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 38.23516 0 Td (Programming) Tj T* -38.23516 0 Td ET
+Q
+Q
+q
+1 0 0 1 159.4803 93 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 141.4803 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 18.77516 0 Td (Libraries/Frameworks) Tj T* -18.77516 0 Td ET
+Q
+Q
+q
+1 0 0 1 312.9606 93 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 141.4803 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 32.95516 0 Td (Tools/Platforms) Tj T* -32.95516 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F2 10 Tf 0 0 0 rg (Proficient) Tj /F1 10 Tf (: C, Python, SQL,) Tj T* (HTML, shell) Tj T* ET
+Q
+Q
+q
+1 0 0 1 159.4803 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Flask, Django, Pandas,) Tj T* (SQLAlchemy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 312.9606 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (PyCharm, VSCode, WordPress) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 33 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F2 10 Tf 0 0 0 rg (Experienced) Tj /F1 10 Tf (: Python, C++,) Tj T* (JavaScript, CSS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 159.4803 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Jekyll, Hugo, Node.JS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 312.9606 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Git, Emacs, WebPack, JD) Tj T* (Edwards / EnterpriseOne) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Familiar) Tj /F1 10 Tf (: GO, PHP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 159.4803 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Bootstrap, Tailwind CSS,) Tj T* (PyQt6, Tkinter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 312.9606 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL -0.079895 Tw (Apache, NginX, Docker, Heroku) Tj T* 0 Tw ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 90 m 460.4409 90 l S
+n 0 60 m 460.4409 60 l S
+n 0 30 m 460.4409 30 l S
+n 153.4803 0 m 153.4803 106 l S
+n 306.9606 0 m 306.9606 106 l S
+n 0 106 m 460.4409 106 l S
+n 0 0 m 460.4409 0 l S
+n 0 0 m 0 106 l S
+n 460.4409 0 m 460.4409 106 l S
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 484.6457 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 567.4803 30 re B*
+Q
+q
+BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Professional Experience) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 476.6457 cm
+Q
+q
+1 0 0 1 20.17323 293.6457 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 159 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 8.01937 0 Td (Programmer /) Tj T* 25.57 0 Td (Analyst:) Tj T* -33.58937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 177 cm
+Q
+q
+1 0 0 1 91.03937 177 cm
+Q
+q
+1 0 0 1 91.03937 141 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 1.810912 Tw 12 TL /F1 10 Tf 0 0 0 rg (Using JDEdwards EnterpriseOne ERP forms and reports in combination with VB.Net and SQL) Tj T* 0 Tw 2.631904 Tw (Reporting Services in delivering optimized business solutions for National Accounts, Sales &) Tj T* 0 Tw (Marketing, Warranty Services, and the Raymond dealer network) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 135 cm
+Q
+q
+1 0 0 1 91.03937 111 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 6.673868 Tw (Developing, designing, implementing, testing and maintaining the iWarehouseTM Fleet) Tj T* 0 Tw (Optimization System, Raymond\222s first commercial software offering) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 105 cm
+Q
+q
+1 0 0 1 91.03937 81 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.21645 Tw (Working closely with executives, consultants, customers, suppliers, and end-users to define and) Tj T* 0 Tw (refine requirements for Raymond\222s IT infrastructure) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 75 cm
+Q
+q
+1 0 0 1 91.03937 63 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Monitoring and troubleshooting issues in JDEdwards, data warehouse, and iWarehouse) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 57 cm
+Q
+q
+1 0 0 1 91.03937 45 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Developing strategy for streamlining operations by integrating business processes) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 39 cm
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Supervising consultants and junior programmers working on a variety of projects) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 15 cm
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 164.6457 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F2 10 Tf 12 TL 25.81937 0 Td (Computer) Tj T* 6.09 0 Td (Systems) Tj T* -0.55 0 Td (Analyst /) Tj T* -10 0 Td (Developer:) Tj T* -21.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 123 cm
+Q
+q
+1 0 0 1 91.03937 123 cm
+Q
+q
+1 0 0 1 91.03937 99 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .836094 Tw (Designing, developing, implementing, testing, and maintaining custom applications and reports in) Tj T* 0 Tw (JDEdwards OneWorld ERP/MRP for Engineering, EMS/QMS, and other business systems) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 93 cm
+Q
+q
+1 0 0 1 91.03937 69 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.217359 Tw 12 TL /F1 10 Tf 0 0 0 rg (Developing specialized reports & applications with JDEdwards, SQL queries, Excel, Access and) Tj T* 0 Tw (VB/VB.Net/SQL Server) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 63 cm
+Q
+q
+1 0 0 1 91.03937 51 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm -0.039927 Tw 12 TL /F1 10 Tf 0 0 0 rg (Working closely with end users in defining and \223fine tuning\224 requirements & creating documentation) Tj T* 0 Tw ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 45 cm
+Q
+q
+1 0 0 1 91.03937 21 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.624245 Tw (Training and supporting JD Edwards users in Finance, MRP, Sales, Purchasing, and Inventory) Tj T* 0 Tw (modules) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 21 cm
+Q
+q
+1 0 0 1 91.03937 15 cm
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 59.64567 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F2 10 Tf 12 TL 26.34937 0 Td (Freelance) Tj T* -15.55 0 Td (Programmer,) Tj T* 5.56 0 Td (Webmaster,) Tj T* 12.22 0 Td (Database) Tj T* -24.43 0 Td (Administrator:) Tj T* -4.14937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 99 cm
+Q
+q
+1 0 0 1 91.03937 99 cm
+Q
+q
+1 0 0 1 91.03937 75 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.618268 Tw (Mentoring bloggers, entrepreneurs, and Bitcoin startups in building and maintaining their online) Tj T* 0 Tw (presence) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 69 cm
+Q
+q
+1 0 0 1 91.03937 57 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Performing as technical liason for clients with advertisers) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 51 cm
+Q
+q
+1 0 0 1 91.03937 39 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Administering customer databases) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 33 cm
+Q
+q
+1 0 0 1 91.03937 21 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Migrating web-sites to new servers) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 21 cm
+Q
+q
+1 0 0 1 91.03937 15 cm
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 59.64567 cm
+Q
+ 
+endstream
+endobj
+28 0 obj
+<<
+/Length 8080
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 34.34646 744.9921 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 567.4803 30 re B*
+Q
+q
+BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Related Volunteer Work) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 736.9921 cm
+Q
+q
+1 0 0 1 34.34646 619.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 12.45937 0 Td (Social Media) Tj T* 20.02 0 Td (Advisor:) Tj T* -32.47937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 111 cm
+Q
+q
+1 0 0 1 91.03937 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Electoral District Association) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (People's Party of Canada) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (London, Ontario \(2019, 2021 elections\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 75 cm
+Q
+q
+1 0 0 1 91.03937 69 cm
+Q
+q
+1 0 0 1 91.03937 69 cm
+Q
+q
+1 0 0 1 91.03937 57 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Building and managing social media presence on Facebook and Instagram for local candidates) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 51 cm
+Q
+q
+1 0 0 1 91.03937 39 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Promoting events for local EDAs and Maxime Bernier) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 33 cm
+Q
+q
+1 0 0 1 91.03937 21 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Promoting fund-raising and merchandise pages) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 21 cm
+Q
+q
+1 0 0 1 91.03937 15 cm
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 34.34646 436.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 159 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 18.03937 0 Td (Community) Tj T* 10.55 0 Td (Manager:) Tj T* -28.58937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 177 cm
+Q
+q
+1 0 0 1 91.03937 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (People's Party of Canada) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Gatineau, Quebec \(2019\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 153 cm
+Q
+q
+1 0 0 1 91.03937 147 cm
+Q
+q
+1 0 0 1 91.03937 147 cm
+Q
+q
+1 0 0 1 91.03937 135 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Designing, developing, implementing, testing, and maintaining custom Twitter client) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 129 cm
+Q
+q
+1 0 0 1 91.03937 117 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Builiding a community for PPC candidates, volunteers, supporters, and critics) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 111 cm
+Q
+q
+1 0 0 1 91.03937 57 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Participating in "hashtag campaigns" with the following objectives:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 33 cm
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (to assist Maxime Bernier being invited to the national Leaders' Debates) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (to draw attention to the PPC platform) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 51 cm
+Q
+q
+1 0 0 1 91.03937 39 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Co-ordinating Twitter support teams for PPC candidates) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 33 cm
+Q
+q
+1 0 0 1 91.03937 21 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Developing specialized reports for Twitter users) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 21 cm
+Q
+q
+1 0 0 1 91.03937 15 cm
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 34.34646 398.9921 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 567.4803 30 re B*
+Q
+q
+BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Employers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 390.9921 cm
+Q
+q
+1 0 0 1 34.34646 312.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 18 cm
+q
+1 1 1 rg
+n 0 54 537.4803 -18 re f*
+.878431 .878431 .878431 rg
+n 0 36 537.4803 -18 re f*
+1 1 1 rg
+n 0 18 537.4803 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sole Proprietorship) Tj T* ET
+Q
+Q
+q
+1 0 0 1 244.8801 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (London, Ontario) Tj T* ET
+Q
+Q
+q
+1 0 0 1 424.0402 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2012 to Present) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The Raymond Corporation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 244.8801 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Greene, New York) Tj T* ET
+Q
+Q
+q
+1 0 0 1 424.0402 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2007 to 2012) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (NUCOR Vulcraft \226 Florence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 244.8801 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Florence, South Carolina) Tj T* ET
+Q
+Q
+q
+1 0 0 1 424.0402 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1997 to 2007) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 36 m 537.4803 36 l S
+n 0 18 m 537.4803 18 l S
+n 238.8801 0 m 238.8801 54 l S
+n 418.0402 0 m 418.0402 54 l S
+n 0 54 m 537.4803 54 l S
+n 0 0 m 537.4803 0 l S
+n 0 0 m 0 54 l S
+n 537.4803 0 m 537.4803 54 l S
+Q
+Q
+Q
+q
+1 0 0 1 20 18 cm
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 34.34646 312.9921 cm
+Q
+q
+1 0 0 1 34.34646 274.9921 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 567.4803 30 re B*
+Q
+q
+BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Education) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 266.9921 cm
+Q
+q
+1 0 0 1 34.34646 224.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 36 cm
+Q
+q
+1 0 0 1 20 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Bachelor of Science, Computer Information Systems) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 12 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (DeVry University, Chicago, Illinois) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Cumulative GPA 3.62 \(Honours\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 34.34646 224.9921 cm
+Q
+q
+1 0 0 1 34.34646 224.9921 cm
+Q
+q
+1 0 0 1 28.34646 2.834646 cm
+q
+BT 1 0 0 1 0 2 Tm 272.5202 0 Td 12 TL /F1 10 Tf 0 0 0 rg (-- 2 --) Tj T* -272.5202 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+29 0 obj
+<<
+/Length 9890
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 744.9921 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 567.4803 30 re B*
+Q
+q
+BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Integrated ERP Project Highlights) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 714.9921 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .731563 Tw (Custom applications with components in multiple environments, including Oracle EnterpriseOne, JD Edwards OneWorld Xe,) Tj T* 0 Tw (and SQL Server, as follows:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 708.9921 cm
+Q
+q
+1 0 0 1 20.17323 627.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 16.35937 0 Td (iWarehouse) Tj T* 12.22 0 Td (Gateway:) Tj T* -28.57937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A web application for fleet management and optimization; modules include the following:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 63 cm
+Q
+q
+1 0 0 1 91.03937 48 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 34.69937 0 Td (iImpact:) Tj T* -34.69937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (impact monitoring \(asset protection\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 33 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 31.91937 0 Td (iMetrics:) Tj T* -31.91937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (vehicle and operator utilization) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 18 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 39.13937 0 Td (iVerify:) Tj T* -39.13937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (operator checklist monitoring) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 32.47937 0 Td (iBattery:) Tj T* -32.47937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (battery utilization) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 588.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F2 10 Tf 12 TL 39.69937 0 Td (Capital) Tj T* -38.33 0 Td (Appropriations) Tj T* 28.89 0 Td (Request:) Tj T* -30.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 4.970995 Tw (An intranet application to automate the capital appropriations request process, replacing the) Tj T* 0 Tw (paper-based process) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 550.9921 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 567.4803 30 re B*
+Q
+q
+BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Exclusively ERP Project Highlights) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 532.9921 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Custom extensions or modifications on JD Edwards OneWorld Xe include the following:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 526.9921 cm
+Q
+q
+1 0 0 1 20.17323 475.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 20.24937 0 Td (Job Master) Tj T* 16.12 0 Td (Inquiry:) Tj T* -36.36937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.346227 Tw (A management tool in JD Edwards, summarizing customer account and project information in credit,) Tj T* 0 Tw .767883 Tw (sales, finance, engineering, and manufacturing systems, improving documentation and communication) Tj T* 0 Tw 1.385457 Tw (between departments; Created a user manual and 25-minute training video for this application using) Tj T* 0 Tw (SnagIt, MS Publisher, and MS PowerPoint) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 400.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 20.25937 0 Td (Production) Tj T* 1.1 0 Td (Scheduler:) Tj T* -21.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 62 Tm .617765 Tw 12 TL /F1 10 Tf 0 0 0 rg (Fixed sales, purchasing, manufacturing, delivery date issues; linked to Job Master Inquiry and Drafting) Tj T* 0 Tw 1.605782 Tw (Input; resulting in fewer problems between Sales and Drafting ) Tj /F3 10 Tf (Completed, Not Shipped \(CNS\)) Tj /F1 10 Tf ( - the) Tj T* 0 Tw .261164 Tw (Finished Goods report - every nut & bolt in the plant is processed by this custom JD Edwards report\227a) Tj T* 0 Tw .812925 Tw (critical piece of Vulcraft\222s month-end closing procedures; the Controller was using five other reports to) Tj T* 0 Tw 1.613809 Tw (get this information until CNS was fixed; month-end closing time was reduced by at least 20%; this) Tj T* 0 Tw (report became an integral part of testing system changes in JD Edwards) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 349.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F2 10 Tf 12 TL 35.24937 0 Td (Material) Tj T* -7.78 0 Td (Resource) Tj T* 3.34 0 Td (Planning) Tj T* 10.02 0 Td (\(MRP\):) Tj T* -40.82937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+BT 1 0 0 1 0 26 Tm .272813 Tw 12 TL /F1 10 Tf 0 0 0 rg (Troubleshooting, modifying, and performance-enhancing on this suite of batch applications, to reconcile) Tj T* 0 Tw 1.315912 Tw (sales, purchasing, manufacturing, and shipping dates, and reduce execution time & system resource) Tj T* 0 Tw (requirements, as this is a ) Tj /F3 10 Tf (resource) Tj /F1 10 Tf ( hog) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 310.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 6.90937 0 Td (The \223Havens\224) Tj T* 30.58 0 Td (Report:) Tj T* -37.48937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 3.311611 Tw (A custom management report in JD Edwards, providing in-depth credit analysis of large and/or) Tj T* 0 Tw 3.540912 Tw (problematic customer accounts, with two sections\227one for the customer, and one for top-level) Tj T* 0 Tw (management) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 271.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F2 10 Tf 12 TL 34.68937 0 Td (180-Day) Tj T* -6.65 0 Td (Weighted) Tj T* 2.21 0 Td (Average:) Tj T* -30.24937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .816309 Tw (A custom financial report in JD Edwards for calculating customer credit scores, based on their last six) Tj T* 0 Tw (months of credit history) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 256.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 6.33937 0 Td (Over 40 Days:) Tj T* -6.33937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A custom financial report in JD Edwards for identifying overdue accounts) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 229.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 49.13937 0 Td (Deck) Tj T* -24.44 0 Td (Inventory:) Tj T* -24.69937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .495782 Tw (A custom JD Edwards financial \(MRP\) report for the Controller and Purchasing Agent, detailing current) Tj T* 0 Tw (and projected raw material requirements) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 190.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 4.68937 0 Td (Fab Schedule:) Tj T* -4.68937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .695067 Tw (The weekly production schedule from which most office activity stems; two specialized versions of this) Tj T* 0 Tw 1.44721 Tw (report created for Drafting and Shop Order; ties in to Manufacturing, Customer Service, Job Master,) Tj T* 0 Tw (Drafting, and Shop Order Inquiry screens) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 139.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 34.70937 0 Td (Drafting) Tj T* 1.66 0 Td (Inquiry:) Tj T* -36.36937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 2.041904 Tw (Added additional fields for tracking approval drawings, and signaling Production Scheduler whether) Tj T* 0 Tw .814434 Tw (drawings are in-process, out for approval, or back from approval; linked to the Job Master Inquiry and) Tj T* 0 Tw 4.21645 Tw (Shop Order Inquiry screens; resulting in providing Production Scheduler with up-to-the minute) Tj T* 0 Tw (information for scheduling purposes) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 88.99213 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 18.02937 0 Td (Shop Order) Tj T* 18.34 0 Td (Inquiry:) Tj T* -36.36937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .61221 Tw (Added additional fields for tracking bills of materials \(aka. shop orders\) through the engineering design) Tj T* 0 Tw .277396 Tw (program \(outside of JD Edwards\); linked to Job Master Inquiry and Drafting Inquiry screens; resulting in) Tj T* 0 Tw .535067 Tw (much improved traceability and fewer interruptions in Data Entry from Drafting and Shop Order, asking) Tj T* 0 Tw (for information) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 61.99213 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 30.25937 0 Td (Shipping) Tj T* 6.11 0 Td (Inquiry:) Tj T* -36.36937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .223809 Tw (A management tool in JD Edwards combining bill of lading, sales, and shipping data for much improved) Tj T* 0 Tw (reachability) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 14.17323 2.834646 cm
+q
+BT 1 0 0 1 0 2 Tm 272.5202 0 Td 12 TL /F1 10 Tf 0 0 0 rg (-- 3 --) Tj T* -272.5202 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+30 0 obj
+<<
+/Length 9359
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 34.34646 741.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 49.13937 0 Td (Daily) Tj T* -30.55 0 Td (Shipments:) Tj T* -18.58937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (A key custom JDE financial report used for invoicing, reported tons & dollars) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 34.34646 714.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 34.68937 0 Td (SO \226 SF) Tj T* -8.32 0 Td (Compare:) Tj T* -26.36937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 14 Tm .669467 Tw 12 TL /F1 10 Tf 0 0 0 rg (A custom JDE application for comparing what was sold to what was built & shipped; used primarily on) Tj T* 0 Tw (large jobs to show the dollar amount left to be invoiced) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 34.34646 687.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 33.02937 0 Td (Re-price) Tj T* -4.44 0 Td (Program:) Tj T* -28.58937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A custom JDE application for re-pricing jobs, typically used when design requirements change) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 34.34646 649.9921 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 567.4803 30 re B*
+Q
+q
+BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Custom Application Highlights) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 631.9921 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Custom development using MS Excel/Access/.Net include the following:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 625.9921 cm
+Q
+q
+1 0 0 1 34.34646 598.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 8.58937 0 Td (Internal Audit) Tj T* 20 0 Td (Manager:) Tj T* -28.58937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.34315 Tw (A custom MS Access database application for managing internal audits of quality and environmental) Tj T* 0 Tw (management systems; generates checklists, audit questions, and audit reports) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 34.34646 559.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F2 10 Tf 12 TL 28.02937 0 Td (Inventory) Tj T* 3.33 0 Td (Tracking) Tj T* 2.78 0 Td (System:) Tj T* -34.13937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 26 Tm .375067 Tw 12 TL /F1 10 Tf 0 0 0 rg (A custom MS Excel spreadsheet application to analyze supplier promised & actual delivery dates using) Tj T* 0 Tw .810067 Tw (data from inventory and cost of quality spreadsheets; results delivered using charts, graphs, and pivot) Tj T* 0 Tw (tables) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 34.34646 508.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 20.26937 0 Td (NUVU BoM) Tj T* 9.43 0 Td (Transfer:) Tj T* -29.69937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 38 Tm 2.721396 Tw 12 TL /F1 10 Tf 0 0 0 rg (A stand-alone application using VB.Net & SQL queries to transfer XML data from NUVU bills of) Tj T* 0 Tw .73221 Tw (materials to the engineering design program, effectively getting NUVU \(AutoCAD\) to talk to the design) Tj T* 0 Tw .608184 Tw (program, written in FORTRAN, and still thinks it is running on punch cards; complete with installer and) Tj T* 0 Tw (auto-update feature for local and satellite sales offices) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 34.34646 469.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F2 10 Tf 12 TL 30.25937 0 Td (Shipping) Tj T* -4.43 0 Td (Route-out) Tj T* -2.79 0 Td (Prototype:) Tj T* -23.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.090782 Tw (This was a tool to move the current delivery dispatches \(\223route-out\224\) procedures from paper-based to) Tj T* 0 Tw (electronic; prototyped in MS Access and later integrated into J.D. Edwards) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 34.34646 430.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL .24937 0 Td (NUVU Installer:) Tj T* -0.24937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.330782 Tw (A collection of shell scripts, HTML, and VB.Net programs to install NUVU on AutoCAD workstations,) Tj T* 0 Tw .677559 Tw (including network security and administrative shares. All the users had to do to install NUVU was click) Tj T* 0 Tw (on a single web-link) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 34.34646 403.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 22.47937 0 Td (Joist Input) Tj T* 6.11 0 Td (Program:) Tj T* -28.58937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.056191 Tw (A front-end to the engineering design program, written in VB5 utilizing a SQL Server database instead of) Tj T* 0 Tw (the old flat-files; object model created using Rational Rose; prototyping done in MS Access) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 34.34646 365.9921 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 567.4803 30 re B*
+Q
+q
+BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Special Projects) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 357.9921 cm
+Q
+q
+1 0 0 1 34.34646 357.9921 cm
+Q
+q
+1 0 0 1 34.34646 345.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Created Twitter bots to help build a social media presence for a new political party in Canada) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 34.34646 339.9921 cm
+Q
+q
+1 0 0 1 34.34646 303.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .875354 Tw (Recovered stolen Internet domain name for a Colorado-based real estate brokerage firm; the investigation tracked the) Tj T* 0 Tw 2.38377 Tw (domain records down in Australia, and the owner in Spain; assistance was obtained from the International Trade) Tj T* 0 Tw (Administration at the US Department of Commerce) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 34.34646 297.9921 cm
+Q
+q
+1 0 0 1 34.34646 261.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .961016 Tw (Served as Senior Lead Internal Auditor for six years. Led the team to make the transition from ISO 9001:1994 to ISO) Tj T* 0 Tw 2.035645 Tw (9001:2000, which included leading the team that re-wrote the quality manual, and moving the quality manual from) Tj T* 0 Tw (paper-based to an interactive on-line system, using MS Internet Information Server \(IIS\), SharePoint, and FrontPage) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 34.34646 255.9921 cm
+Q
+q
+1 0 0 1 34.34646 243.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Routinely served as corporate liaison with outside auditors of both our quality and environmental management systems) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 34.34646 243.9921 cm
+Q
+q
+1 0 0 1 34.34646 205.9921 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 567.4803 30 re B*
+Q
+q
+BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Cryptocurrency Project Highlights) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 197.9921 cm
+Q
+q
+1 0 0 1 34.34646 197.9921 cm
+Q
+q
+1 0 0 1 34.34646 173.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .762795 Tw 12 TL /F1 10 Tf 0 0 0 rg (Owned & operated a Bitcoin mining farm, starting with two \(2\) FPGA miners, expanded to six \(6\) first-generation ASIC) Tj T* 0 Tw (miners and a second-generation ASIC miner) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 34.34646 167.9921 cm
+Q
+q
+1 0 0 1 34.34646 155.9921 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (First-ever web-scraper to collect account information from the GBBG|BitBillions ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (1) Tj /F1 10 Tf 0 0 0 rg 0 Ts ( web-site) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 34.34646 155.9921 cm
+Q
+q
+1 0 0 1 34.34646 149.9921 cm
+Q
+q
+1 0 0 1 34.34646 137.9921 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 137.9921 cm
+Q
+q
+1 0 0 1 34.34646 81.29921 cm
+Q
+q
+1 0 0 1 34.34646 52.95276 cm
+n 0 14.17323 m 557.4803 14.17323 l S
+Q
+q
+1 0 0 1 34.34646 40.95276 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (BitBillions was an early Bitcoin community) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 28.34646 2.834646 cm
+q
+BT 1 0 0 1 0 2 Tm 272.5202 0 Td 12 TL /F1 10 Tf 0 0 0 rg (-- 4 --) Tj T* -272.5202 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+31 0 obj
+<<
+/Nums [ 0 32 0 R 1 33 0 R 2 34 0 R 3 35 0 R ]
+>>
+endobj
+32 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+33 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+34 0 obj
+<<
+/S /D /St 3
+>>
+endobj
+35 0 obj
+<<
+/S /D /St 4
+>>
+endobj
+xref
+0 36
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000521 00000 n 
+0000000692 00000 n 
+0000000880 00000 n 
+0000001105 00000 n 
+0000001300 00000 n 
+0000001415 00000 n 
+0000001611 00000 n 
+0000001780 00000 n 
+0000001949 00000 n 
+0000002171 00000 n 
+0000002277 00000 n 
+0000002552 00000 n 
+0000002626 00000 n 
+0000002750 00000 n 
+0000002886 00000 n 
+0000003009 00000 n 
+0000003132 00000 n 
+0000003280 00000 n 
+0000003429 00000 n 
+0000003573 00000 n 
+0000003704 00000 n 
+0000003839 00000 n 
+0000003919 00000 n 
+0000015352 00000 n 
+0000023484 00000 n 
+0000033426 00000 n 
+0000042837 00000 n 
+0000042905 00000 n 
+0000042939 00000 n 
+0000042973 00000 n 
+0000043007 00000 n 
+trailer
+<<
+/ID 
+[<46a7cbf1dceba62c92c97b256761b50b><46a7cbf1dceba62c92c97b256761b50b>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 15 0 R
+/Root 14 0 R
+/Size 36
+>>
+startxref
+43041
+%%EOF

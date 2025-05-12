@@ -1,0 +1,23 @@
+#+TITLE:	JSON-Resume
+#+SUBTITLE:	Log
+#+DATE:		2025-05-12 06:20:55-04:00
+#+LASTMOD: 2025-05-12 07:05:13-0400 (EDT)
+#+OPTIONS:	toc:nil num:nil
+#+STARTUP:	indent show3levels
+#+CATEGORIES[]:	Projects
+#+TAGS[]:	log python json resume jobhunting employment
+
+* Monday, May 12, 2025
+** Initialize Project
+*** GitHub
+*** Sqitch
+*** Environment
+** Define Database
+*** Tables
+- ~dt_person~
+- ~dt_education~
+- ~dt_experience~
+- ~dt_skill~
+- ~dt_project~
+- ~dt_accomplishment~
+- ~dt_certificate~
