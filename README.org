@@ -1,17 +1,30 @@
 #+TITLE:	JSON-Resume
 #+SUBTITLE:	README
 #+DATE:		2025-05-12 06:20:55-04:00
-#+LASTMOD: 2025-05-12 06:32:49-0400 (EDT)
+#+LASTMOD: 2025-05-12 18:01:54-0400 (EDT)
 #+OPTIONS:	toc:nil num:nil
 #+STARTUP:	indent showeverything
 #+CATEGORIES[]:	Projects
-#+TAGS[]:	readme python json resume jobhunting employment
+#+TAGS[]:	readme jsonresume jobhunting employment
 
 * URLs
+** Articles
+- [[https://bhdouglass.com/blog/how-to-build-a-developer-json-resume/][How to Build a Developer JSON Resume 2024]]
 - [[https://www.bomberbot.com/django/building-a-stunning-digital-resume-with-django-and-python-a-full-stack-developers-guide/][Building a Stunning Digital Resume with Django and Python: A Full-Stack Developer‘s Guide]]
-- [[https://github.com/palevell/JSON-Resume][GitHub]]
+** Tools
+- [[https://github.com/rbardini/resumed][Resumed]] (alternative to [[https://github.com/jsonresume/resume-cli][resume-cli]])
+- [[https://jsonresume.org][jsonresume.org]]
+- [[https://json-schema.org/][json-schema.org]]
+** JSON Resume Themes
+- [[https://www.npmjs.com/search?ranking=maintenance&q=jsonresume-theme][NPM Packages]]
+** My Links
+- This project on [[https://github.com/palevell/JSON-Resume][GitHub]]
 
 * Description
-This creates a JSON version of my resume, using the Django project as a starting point
+- The goal is to create a JSON version of my resume, using the Django project as a starting point
+** Thoughts
+- JSON is messy, and doesn't store multi-line text well
+- A Python program could assemble the JSON document
+- A database could store the different pieces
 
 * To Do

@@ -2,3 +2,6 @@
 %project=JSON-Resume
 %uri=git@github.com:palevell/JSON-Resume.git
 
+app_schema 2025-05-12T12:50:42Z Patrick <patrick29501@gmx.com> # Create schema for database objects
+dt_person [app_schema] 2025-05-12T13:38:52Z Patrick <patrick29501@gmx.com> # Add Person Table
+dt_education [app_schema dt_person] 2025-05-12T13:45:20Z Patrick <patrick29501@gmx.com> # Add Education Table

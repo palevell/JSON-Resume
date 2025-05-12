@@ -1,0 +1,253 @@
+    162 sqitch deploy
+    117 sqitch status --show-tags
+     72 sqitch revert -y --to @HEAD^
+     71 sqitch plan -foneline
+     69 sqitch status
+     37 sqitch log
+     30 sqitch plan
+     24 sqitch revert -y --to @HEAD^^
+     22 sqitch revert
+     15 sqitch log -foneline
+     10 sqitch plan --format=oneline
+     10 sqitch plan --event=deploy --format=oneline
+      9 sqitch config core.pager 'more'
+      8 sqitch deploy --to=fn_user_insert
+      8 sqitch config --bool rebase.verify true
+      8 sqitch config --bool deploy.verify true
+      7 sqitch status db:mysql://patrick@/patrick
+      7 sqitch deploy --verify
+      7 sqitch config --list
+      6 sqitch verify
+      6 sqitch help plan
+      5 sqitch --version
+      5 sqitch status --with-tags
+      5 sqitch revert --to=devschema
+      5 sqitch deploy  # --to=pgcrypto
+      4 sqitch tag v1.0.0-dev1 -n 'Tag v1.0.0-dev1.'
+      4 sqitch init flipr --uri https://github.com/iPadGuy/sqitch-into --engine pg
+      4 sqitch help log
+      4 sqitch config --system --list
+      4 sqitch config --local --list
+      4 sqitch add dt_user --requires devschema -n "Add user table"
+      4 sqitch add devschema -n 'Add development schema'
+      4 sqitch add app_schema -n "App Schema"
+      3 sqitch status db:pg:flipr_test
+      3 sqitch status db:mysql://localhost/patrick
+      3 sqitch rebase
+      3 sqitch init MusicHistory --top-dir=pg --engine=pg --uri=git@github.com:iPadGuy/MusicHistory.git
+      3 sqitch config --user user.name 'iPad Guy'
+      3 sqitch config --user user.email 'ipad.guy.100@gmx.com'
+      3 sqitch config --user --list
+      3 sqitch bundle --dest-dir acct_maint-1.0.0-dev5
+      3 sqitch add pgcrypto -n "Adds pgcrypto extention to the database"
+      3 sqitch add dt_auth_user --requires dt_user --requires devschema -n "Add authorized user table"
+      2 sqitch verify db:pg:flipr_test
+      2 sqitch target add audit_tables db:pg:audit_tables
+      2 sqitch tag v1.0.0-dev5 -n 'Tag v1.0.0-dev5'
+      2 sqitch tag v1.0.0-dev2 -n 'Tag v1.0.0-dev2.'
+      2 sqitch tag v1.0.0-dev2 -n 'Tag v1.0.0-dev2'
+      2 sqitch status db:mysql://root@/patrick
+      2 sqitch revert --to=@HEAD^
+      2 sqitch revert --to=dt_history
+      2 sqitch plan --event=deploy --format=oneline 
+      2 sqitch log -fshort
+      2 sqitch log -foneline --event deploy
+      2 sqitch help init
+      2 sqitch help add
+      2 sqitch engine show pg
+      2 sqitch engine add pg audit_tables
+      2 sqitch deploy --to=dt_user_history
+      2 sqitch deploy --to dt_user
+      2 sqitch deploy --to=app_schema
+      2 sqitch deploy --registry test
+      2 sqitch config --user user.name 'Patrick'
+      2 sqitch config --user user.email 'patrick29501@gmx.com'
+      2 sqitch bundle --dest-dir acct_maint-1.1.0-dev1
+      2 sqitch add fn_issue_history --requires dt_issue --requires devschema -n "Add Issue History function"
+      2 sqitch add fn_insert_user --requires dt_user_history --requires dt_user --requires devschema -n "Add insert user function"
+      2 sqitch add fn_insert_issue --requires dt_issue --requires devschema -n "Add Issue INSERT function"
+      2 sqitch add dt_user -r fn_update_asof -r appschema -n "Add user table"
+      2 sqitch add dt_user_history --requires dt_user --requires devschema -n "Add User History table"
+      2 sqitch add dt_user_history --requires dt_user --requires devschema -n "Add user_history table"
+      2 sqitch add dt_relation --requires dt_user --requires devschema -n "Add Relation Table"
+      2 sqitch add dt_playhistory -n "Add Music History Table"
+      2 sqitch add dt_playhistory3 -n "Add Music History Table for Experiments"
+      2 sqitch add dt_json_loader --requires devschema --requires dt_batch_control --requires dt_file_control --requires asof_triggers --requires pgcrypto -n "Add table for loading JSON data from twscrape"
+      2 sqitch add dim_date --requires app_schema -n 'Date Dimension Table'
+      2 sqitch add app_schema -n "Add schema for database objects"
+      1 sqitch -v
+      1 sqitch target show prod-primary prod-standby
+      1 sqitch target show
+      1 sqitch target add flipr_test db:pg:flipr_test
+      1 sqitch target add audit_tables dg:pg:audit_tables
+      1 sqitch target add acct_maint db:pg:acct_maint
+      1 sqitch target add acct_maint_2024 db:pg:acctmaint2024
+      1 sqitch target
+      1 sqitch tag v1.1.0-dev1 -n 'Tag v1.1.0-dev1'
+      1 sqitch tag v1.1.0-dev0 -n 'Tag v1.1.0-dev0'
+      1 sqitch tag v1.0.0-dev4 -n 'Tag v1.0.0-dev4'
+      1 sqitch tag v1.0.0-dev3 -n 'Tag v1.0.0-dev3'
+      1 sqitch tag v1.0.0-dev1 -n 'Tag v1.0.0-dev1'
+      1 sqitch tag v0.1.0-dev96 -n "Tag v0.1.0-dev96"
+      1 sqitch tag v0.1.0-dev108 -n "Tag v0.1.0-dev108"
+      1 sqitch tag v0.1.0-dev102 -n "Tag v0.1.0-dev102"
+      1 sqitch system --list
+      1 sqitch status --show-tags -foneline
+      1 sqitch status --password
+      1 sqitch status -foneline
+      1 sqitch status db:pg:flipr_dev
+      1 sqitch status db:mysql://patrick:test1@localhost/patrick
+      1 sqitch status db:mysql://patrick@patrick
+      1 sqitch status db:mysql://patrick@:/patrick
+      1 sqitch status db:mysql://patrick@localhost:test1/patrick
+      1 sqitch status db:mysql://patrick@localhost/patrick
+      1 sqitch status db:mysql://patrick@/localhost/patrick
+      1 sqitch status db:mysql://patrick:@localhost/patrick
+      1 sqitch status db:mysql://localhost/patrick -u patrick
+      1 sqitch status db:mysql://localhost/patrick -p
+      1 sqitch show
+      1 sqitch rework pgcrypto -n "Need to remove search_path from scripts"
+      1 sqitch rework insert_user --requires pgcrypto -n 'Change insert_user to use pgcrypto.'
+      1 sqitch rework fn_user_insert -n 'Fix SQL error'
+      1 sqitch rework dt_staging --requires devschema --requires asof_triggers -n "Change dt_staging to use asof_triggers"
+      1 sqitch rework dt_relation -n "Change column names"
+      1 sqitch rework dt_auth_user
+      1 sqitch rework change_pass --requires pgcrypto -n 'Change change_pass to use pgcrypto.'
+      1 sqitch revert -y --to @HEAD^^^
+      1 sqitch revert --to @HEAD^^ -y
+      1 sqitch revert --to @HEAD^ -y
+      1 sqitch revert --to=@HEAD^^
+      1 sqitch revert --to=fn_user_insert
+      1 sqitch revert --to=dt_user_history
+      1 sqitch revert --to=dt_playhistory
+      1 sqitch revert --to=dd_playhistory
+      1 sqitch revert --to=app_schema
+      1 sqitch revert db:pg:flipr_test
+      1 sqitch remove dim_date
+      1 sqitch purge MusicHistory
+      1 sqitch plan --format=short
+      1 sqitch plan --format=full
+      1 sqitch log --help
+      1 sqitch log db:pg:flipr_test
+      1 sqitch init SqitchMySQL --top-dir=mysql --uri=https://github.com/palevell/DateDimension --engine=mysql
+      1 sqitch init JSON-Resume --top-dir=pg --engine=pg --uri=git@github.com:palevell/JSON-Resume.git
+      1 sqitch init images --top-dir=pg --engine=pg --uri=https://github.com/palevell/images
+      1 sqitch init flipr --uri https://github.com/iPadGuy/AuditTables --engine pg
+      1 sqitch init DateDimension --top-dir=pg --uri=https://github.com/palevell/DateDimension --engine=pg
+      1 sqitch init DateDimension --top-dir=mysql --uri=https://github.com/palevell/DateDimension --engine=mysql
+      1 sqitch init btc_rates --top-dir=pg --engine=pg --uri=https://github.com/palevell/btc_rates
+      1 sqitch init audit_tables --top-dir sqitch --uri https://github.com/iPadGuy/AuditTables --engine pg
+      1 sqitch init acct_maint_2024 --top-dir pg --uri https://github.com/palevell/acct_maint_2024 --engine pg
+      1 sqitch init acct_maint_2023 --top-dir pg --uri https://github.com/palevell/social_media --engine pg
+      1 sqitch help plan --format=oneline
+      1 sqitch help plan --format oneline
+      1 sqitch help plan -f oneline
+      1 sqitch help deploy
+      1 sqitch help config
+      1 sqitch --help add
+      1 sqitch --help
+      1 sqitch engine --verbose
+      1 sqitch engine show db:pg:
+      1 sqitch engine show db:pg
+      1 sqitch engine show
+      1 sqitch engine alter pg --registry test
+      1 sqitch engine add pg flipr_test
+      1 sqitch engine add pg acct_maint_2024
+      1 sqitch engine add pg acct_maint
+      1 sqitch engine
+      1 sqitch deploy -y --to=dt_user
+      1 sqitch deploy -y
+      1 sqitch deploy --verify --to=app_schema
+      1 sqitch deploy --verify db:pg:flipr_test
+      1 sqitch deploy --to=pgcrypto
+      1 sqitch deploy to=fn_user_insert
+      1 sqitch deploy --to=dt_user
+      1 sqitch deploy --to=app_schema --verify
+      1 sqitch deploy db:pg:flipr_test
+      1 sqitch deploy db:pg:flipr_prod
+      1 sqitch deploy db:pg:flipr_dev
+      1 sqitch config --help
+      1 sqitch config core.pager 'more'; sqitch config --bool rebase.verify true; sqitch config --bool deploy.verify true
+      1 sqitch config core.pager 'more'; sqitch config --bool deploy.verify true; sqitch config --bool rebase.verify true
+      1 sqitch config
+      1 sqitch commands
+      1 sqitch --change engine pg mysql
+      1 sqitch bundle --dest-dir flipr-1.0.0-dev2
+      1 sqitch bundle --dest-dir audit_tables-1.0.0-dev2
+      1 sqitch bundle --dest-dir audit_tables-1.0.0-dev1
+      1 sqitch bundle --dest-dir acct_maint-1.1.0-dev0
+      1 sqitch bundle --dest-dir acct_maint-1.0.0-dev4
+      1 sqitch bundle --dest-dir acct_maint-1.0.0-dev3
+      1 sqitch bundle --dest-dir acct_maint-1.0.0-dev2
+      1 sqitch bundle --dest-dir acct_maint-1.0.0-dev1
+      1 sqitch bundle
+      1 sqitch add weekly_price --requires app_schema --requires dt_price -n "Add weekly price aggregate view"
+      1 sqitch add weekly_change --requires app_schema --requires weekly_price --requires dt_weekly -n "Add weekly price change view"
+      1 sqitch add users --requires appschema -n 'Creates table to track our users.'
+      1 sqitch add pgcrypto --requires appschema -n "Adds pgcrypto extention to the database"
+      1 sqitch add monthly_price --requires app_schema --requires dt_price -n "Add monthly price aggregate view"
+      1 sqitch add monthly_change --requires app_schema --requires monthly_price --requires dt_monthly -n "Add monthly price change view"
+      1 sqitch add insert_user --requires users --requires appschema   -n 'Creates a function to insert a user.'
+      1 sqitch add insert_flip --requires flips --requires appschema -n "Crates a function to insert a flip"
+      1 sqitch add insert_flip --requires --flips --requires appschema -n "Crates a function to insert a flip"
+      1 sqitch add insert_flip --requires --flips --appschema -n "Crates a function to insert a flip"
+      1 sqitch add insert_flip --requires --flips --appschema -n "Crates a function to insert a flip
+      1 sqitch add insert_flip --change --requires flips --requires users --requires appschema -n "Crates a function to insert a flip"
+      1 sqitch add fn_user_insert --requires dt_user_history --requires dt_user --requires devschema -n "Add insert user function"
+      1 sqitch add fn_user_history -r dt_user_history -r appschema -n "Add user history function"
+      1 sqitch add fn_update_asof -r appschema -n "Add function for AsOf triggers"
+      1 sqitch add fn_issue --requires asof_triggers --requires dt_issue --requires devschema -n "Add functions & triggers for issue tables"
+      1 sqitch add fn_insert_user --requires dt_user_triggers --requires dt_user_history --requires dt_user --requires devschema -n "Add insert_user function"
+      1 sqitch add fn_insert_user -r dt_user -r appschema -n "Add insert user function"
+      1 sqitch add fn_insert_relation --requires dt_relation --requires dt_user --requires devschema -n "Add Relation Insert function"
+      1 sqitch add flips -r appschema -r users -n 'Adds table for storing flips.'
+      1 sqitch add dt_yahoo_daily --requires app_schema -n "Add Yahoo daily table"
+      1 sqitch add dt_weekly --requires app_schema --requires weekly_price -n "Add weekly summary table"
+      1 sqitch add dt_wallhaven_json -n "Add Wallhaven Image JSON Table"
+      1 sqitch add dt_user_triggers --requires dt_user_history --requires dt_user --requires devschema -n "Add table triggers to dt_user"
+      1 sqitch add dt_user --requires devschema -n "Add user table
+      1 sqitch add dt_user -r devschema -n "Add user table"
+      1 sqitch add dt_user -r appschema -n "Add user table"
+      1 sqitch add dt_user_history -r dt_user -r fn_update_asof -r appschema -n "Add user history table"
+      1 sqitch add dt_staging --requires devschema --requires asof_triggers -n "Add table for loading JSON data from twscrape"
+      1 sqitch add dt_staging --requires devschema -n "Add table for staging data"
+      1 sqitch add dt_relation_history --requires dt_relation --requires dt_user --requires devschema -n "Add Relation History Table"
+      1 sqitch add dt_prices --requires app_schema -n "Add Bitcoin Price table"
+      1 sqitch add dt_monthly --requires app_schema --requires monthly_price -n "Add monthly summary table"
+      1 sqitch add dt_json_loader --requires devschema --requires asof_triggers --requires pgcrypto -n "Add table for loading JSON data from twscrape"
+      1 sqitch add dt_json_loader --requires devschema --requires asof_triggers -n "Add table for loading JSON data from twscrape"
+      1 sqitch add dt_issue --requires devschema -n "Add Issue-Tracking Table"
+      1 sqitch add dt_file_control --requires devschema --requires dt_batch_control -n "Add control table for file processing"
+      1 sqitch add dt_daily --requires app_schema -n "Add daily summary table"
+      1 sqitch add dt_batch_control --requires devschema -n "Add table for batch processing"
+      1 sqitch add dt_batch_control --requires devschema "Add table for batch processing"
+      1 sqitch add dt_auth_user --requires dt_user --requires devschema -n "Add Authorized User Table"
+      1 sqitch add dt_auth_user --requires devschema -n "Add authorized user table"
+      1 sqitch add dim_year --requires app_schema -n "Add year dimension"
+      1 sqitch add dim_year -n "Add year dimension"
+      1 sqitch add dim_week --requires app_schema -n "Add week dimension"
+      1 sqitch add dim_week -n "Add week dimension"
+      1 sqitch add dim_quarter --requires app_schema -n "Add quarter dimension"
+      1 sqitch add dim_quarter -n "Add quarter dimension"
+      1 sqitch add dim_month --requires app_schema -n "Add month dimension"
+      1 sqitch add dim_month -n "Add month dimension"
+      1 sqitch add dim_date -n "Add date dimension"
+      1 sqitch add devschema -n "Add schema for development objects"
+      1 sqitch add devschema -n "Add schema for development objects
+      1 sqitch add delete_flip --requires flips --requires users --requires appschema -n "Crates a function to delete a flip"
+      1 sqitch add delete_flip --requires flips --requires appschema -n "Crates a function to delete a flip"
+      1 sqitch add dd_playhistory --requires app_schema --requires dt_playhistory -n "Add view for date dimension with play history"
+      1 sqitch add d_date -n "Add Date Dimension Table"
+      1 sqitch add daily_price --requires app_schema --requires dt_price -n "Add daily price aggregate table"
+      1 sqitch add daily_change --requires app_schema --requires daily_price --requires dt_daily -n "Add daily price change view"
+      1 sqitch add change_pass --requires users --requires appschema   -n 'Creates a function to change a user password.'
+      1 sqitch add --change insert_flip --requires flips --requires users --requires appschema -n "Crates a function to insert a flip" ; sqitch add insert_flip --change --requires flips --requires users --requires appschema -n "Crates a function to insert a flip"
+      1 sqitch add --change insert_flip --requires flips --requires users --requires appschema -n "Crates a function to insert a flip"
+      1 sqitch add --change engine pg mysql
+      1 sqitch add --change engine mysql pg
+      1 sqitch add asof_triggers --requires dt_relation --requires dt_user --requires devschema -n "Add Authorized User Table"
+      1 sqitch add app_schema.sql -n "Add schema for all dim_date objects"
+      1 sqitch add appschema -n 'Add schema for all flipr objects.'
+      1 sqitch add app_schema -n "Add schema for all dim_date objects"
+      1 sqitch add appschema -n "Add schema for all acctmaint2024 objects"
+      1 sqitch add app_schema

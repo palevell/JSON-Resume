@@ -1,23 +1,30 @@
 #+TITLE:	JSON-Resume
 #+SUBTITLE:	Log
 #+DATE:		2025-05-12 06:20:55-04:00
-#+LASTMOD: 2025-05-12 07:05:13-0400 (EDT)
+#+LASTMOD: 2025-05-12 17:45:01-0400 (EDT)
 #+OPTIONS:	toc:nil num:nil
 #+STARTUP:	indent show3levels
 #+CATEGORIES[]:	Projects
-#+TAGS[]:	log python json resume jobhunting employment
+#+TAGS[]:	log jsonresume jobhunting employment
 
 * Monday, May 12, 2025
 ** Initialize Project
 *** GitHub
 *** Sqitch
 *** Environment
+*** Node
+- ~npm init -y~
+- ~npm -g install resumed~
+- ~npm i jsonresume-theme-bhdouglass jsonresume-theme-even~ (themes)
+- ~resumed init~ (Creates ~resume.json~)
 ** Define Database
 *** Tables
 - ~dt_person~
-- ~dt_education~
-- ~dt_experience~
-- ~dt_skill~
-- ~dt_project~
 - ~dt_accomplishment~
 - ~dt_certificate~
+- ~dt_education~
+- ~dt_experience~
+- ~dt_project~
+- ~dt_reference~
+- ~dt_skill~
+- ~dt_volunteer~
