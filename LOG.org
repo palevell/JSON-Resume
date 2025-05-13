@@ -1,16 +1,23 @@
-#+TITLE:	JSON-Resume
+#+TITLE:	JSON Resume
 #+SUBTITLE:	Log
 #+DATE:		2025-05-12 06:20:55-04:00
-#+LASTMOD: 2025-05-12 17:45:01-0400 (EDT)
+#+LASTMOD: 2025-05-13 18:07:46-0400 (EDT)
 #+OPTIONS:	toc:nil num:nil
 #+STARTUP:	indent show3levels
 #+CATEGORIES[]:	Projects
 #+TAGS[]:	log jsonresume jobhunting employment
 
+* Tuesday, May 13, 2025
+** Changing Focus from Database to Python Script
+- For now, building a database for a single JSON file seems like overkill
+- Now that I have a sample JSON file, I will simply construct ~resume.json~ in Python
+** Resume Object Model
+- ~models/resume~ contains a variety of resume sections
 * Monday, May 12, 2025
 ** Initialize Project
 *** GitHub
 *** Sqitch
+- Added ~templates~ directory
 *** Environment
 *** Node
 - ~npm init -y~
