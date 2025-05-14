@@ -1,7 +1,7 @@
 #+TITLE:	JSON Resume
 #+SUBTITLE:	README
 #+DATE:		2025-05-12 06:20:55-04:00
-#+LASTMOD: 2025-05-13 18:07:55-0400 (EDT)
+#+LASTMOD: 2025-05-14 09:19:28-0400 (EDT)
 #+OPTIONS:	toc:nil num:nil
 #+STARTUP:	indent showeverything
 #+CATEGORIES[]:	Projects
@@ -11,6 +11,7 @@
 ** Articles
 - [[https://bhdouglass.com/blog/how-to-build-a-developer-json-resume/][How to Build a Developer JSON Resume 2024]]
 - [[https://www.bomberbot.com/django/building-a-stunning-digital-resume-with-django-and-python-a-full-stack-developers-guide/][Building a Stunning Digital Resume with Django and Python: A Full-Stack Developer‘s Guide]]
+- [[https://ktema.org/articles/the-overengineered-resume/][The Overengineered Resume with Zola, JSON Resume, Weasyprint, and Nix]]
 ** Tools
 - [[https://github.com/rbardini/resumed][Resumed]] (alternative to [[https://github.com/jsonresume/resume-cli][resume-cli]])
 - [[https://jsonresume.org][jsonresume.org]]

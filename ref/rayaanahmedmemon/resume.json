@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "theme": "stackoverflow"
+  },
+  "basics": {
+    "name": "Rayaan Ahmed Memon",
+    "label": "DIY Hobbyist and Event Organizer",
+    "email": "raynahmedmemon@gmail.com",
+    "phone": "03040922020 / 03399223345",
+    "website": "",
+    "summary": "Passionate and driven DIY hobbyist, event organizer, and technical enthusiast with a strong ability to innovate and execute projects successfully. With hands-on expertise in electronics, automotive customization, and large-scale event management, I thrive in problem-solving, creative execution, and networking. My experience in organizing major events, including Olympiad 2025 and MUNIC 2024, showcases my ability to handle high-pressure situations and deliver results.",
+    "location": {
+      "address": "House Number 478 Street #22 F-15/1",
+      "postalCode": "",
+      "city": "Islamabad",
+      "countryCode": "PK",
+      "region": "Federal Capital"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Rayaan Ahmed Memon",
+        "url": "https://www.linkedin.com/in/rayaan-ahmed-memon-b38a27194/"
+      }
+    ],
+    "image": "https://media.licdn.com/dms/image/v2/D5603AQEyAK9MObA62g/profile-displayphoto-shrink_200_200/B56ZXUTgJHHEAg-/0/1743023638183?e=1749686400&v=beta&t=jnntOtvLRyHzTmDf-6T-CSsdINIdUu7mUJLsTrLR8SU"
+  },
+  "work": [
+    {
+      "company": "Self-Employed",
+      "position": "DIY Hobbyist & Event Organizer",
+      "website": "",
+      "startDate": "2016-01-01",
+      "summary": "Worked independently on electronics, automotive modifications, and event organization.",
+      "highlights": [
+        "Designed and built custom amplifiers, PCBs, and automation systems.",
+        "Developed and installed automotive electronic systems and custom setups.",
+        "Managed event logistics, vendor coordination, and event execution."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "MUNIC 2024",
+      "position": "Security Team Member",
+      "website": "",
+      "summary": "Ensured safety and managed crowd during the event.",
+      "highlights": [
+        "Maintained order and crowd control during all sessions."
+      ]
+    },
+    {
+      "organization": "Olympiad 2025",
+      "position": "Event Setup Lead",
+      "website": "",
+      "summary": "Led the last-minute setup of Anural Khalid’s concert, ensuring smooth execution.",
+      "highlights": [
+        "Coordinated technical and stage setup under time pressure."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "The City School",
+      "area": "A Levels",
+      "studyType": "Cambridge International",
+      "startDate": "2024-08-01"
+    },
+    {
+      "institution": "The Science School",
+      "area": "O Levels",
+      "studyType": "Cambridge International",
+      "startDate": "2016-08-01",
+      "endDate": "2024-05-01",
+      "score": "2B's 3C's 3D's"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Honorary Mention",
+      "date": "2025-01-01",
+      "awarder": "Olympiad 2025",
+      "summary": "Recognized for outstanding contribution to event execution."
+    },
+    {
+      "title": "Participation Award",
+      "date": "2024-01-01",
+      "awarder": "MUNIC 2024",
+      "summary": "Acknowledged for active involvement in event security and organization."
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "DIY Electronics & Engineering",
+      "level": "Advanced",
+      "keywords": [
+        "Amplifiers",
+        "PCBs",
+        "Custom Builds"
+      ]
+    },
+    {
+      "name": "Automotive Customization",
+      "level": "Intermediate",
+      "keywords": [
+        "Modifications",
+        "Audio Systems",
+        "Custom Equipment"
+      ]
+    },
+    {
+      "name": "Event Planning & Management",
+      "level": "Advanced",
+      "keywords": [
+        "Event Setup",
+        "Logistics",
+        "Vendor Coordination"
+      ]
+    },
+    {
+      "name": "Project Coordination",
+      "level": "Advanced",
+      "keywords": [
+        "Execution",
+        "Team Collaboration"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Urdu",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "DIY Electronics and Engineering",
+      "keywords": [
+        "Innovation",
+        "Hands-on Projects"
+      ]
+    },
+    {
+      "name": "Automotive Customization",
+      "keywords": [
+        "Modification",
+        "Technical Tuning"
+      ]
+    },
+    {
+      "name": "Event Management",
+      "keywords": [
+        "Planning",
+        "Execution"
+      ]
+    },
+    {
+      "name": "Technology & Networking",
+      "keywords": [
+        "Tech Trends",
+        "Industry Connections"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available on Request",
+      "reference": "References will be furnished upon request."
+    }
+  ]
+}

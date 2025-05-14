@@ -1,0 +1,99 @@
+$schema: https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json
+basics:
+  email: patrick@levell.tech
+  image: 'https://media.licdn.com/dms/image/v2/D5603AQHZAOi4imti3Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1675029596103?e=1752710400&v=beta&t=PYdbayMEPFGRIBRgb_WPKjkRJ0L5_dfDLiH170DJnSM'
+  label: Computer Systems Analyst
+  location:
+    city: London
+    countryCode: CA
+    postalCode: ON N6J 3R5
+    region: Ontario
+  name: Patrick A. Levell
+  profiles:
+  - network: LinkedIn
+    url: https://linkedin.com/in/palevell
+  summary: "Results-driven Systems Analyst / Developer, Business Analyst, and Bitcoin enthusiast
+		with broad-based experience in enhancing system functionality and end-user
+		productivity. Accomplished professional who has earned a reputation for consistently
+		meeting and exceeding aggressive objectives. Effective communicator possessing
+		excellent interpersonal and relationship-building skills."
+  url: https://levell.tech
+education:
+- area: Computer Information Systems
+  endDate: '1995-06-15'
+  institution: DeVry University
+  score: '3.75'
+  startDate: '1992-06-01'
+  studyType: Bachelor of Science
+  url: https://devry.edu/
+interests:
+- keywords:
+  - Ferrets
+  - Unicorns
+  name: Wildlife
+languages:
+- fluency: Native speaker
+  language: English
+meta:
+  canonical: https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/sample.resume.json
+  lastModified: '2025-05-14T11:17:34-04:00'
+  version: v1.0.0
+projects:
+- description: A mapping engine that misguides you
+  endDate: '2016-08-24'
+  entity: Smoogle
+  highlights:
+  - Won award at AIHacks 2016
+  - Built by all women team of newbie programmers
+  - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
+  keywords:
+  - GoogleMaps
+  - Chrome Extension
+  - Javascript
+  name: Miss Direction
+  roles:
+  - Team lead
+  - Designer
+  startDate: '2016-08-24'
+  type: application
+  url: http://missdirection.example.com
+references:
+- name: Upon request
+skills:
+- keywords:
+  - HTML
+  - CSS
+  - Javascript
+  level: Master
+  name: Web Development
+- keywords:
+  - Mpeg
+  - MP4
+  - GIF
+  level: Master
+  name: Compression
+volunteer:
+- endDate: '2013-01-01'
+  highlights:
+  - Awarded 'Teacher of the Month'
+  organization: CoderDojo
+  position: Teacher
+  startDate: '2012-01-01'
+  summary: Global movement of free coding clubs for young people.
+  url: http://coderdojo.example.com/
+work:
+- description: Awesome compression company
+  endDate: '2014-12-01'
+  highlights:
+  - Build an algorithm for artist to detect if their music was violating copy right
+    infringement laws
+  - Successfully won Techcrunch Disrupt
+  - Optimized an algorithm that holds the current world record for Weisman Scores
+  location: Palo Alto, CA
+  name: Pied Piper
+  position: CEO/President
+  startDate: '2013-12-01'
+  summary: Pied Piper is a multi-platform technology based on a proprietary universal
+    compression algorithm that has consistently fielded high Weisman Scores™ that
+    are not merely competitive, but approach the theoretical limit of lossless compression.
+  url: http://piedpiper.example.com

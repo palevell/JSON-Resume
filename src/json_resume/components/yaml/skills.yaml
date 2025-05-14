@@ -1,0 +1,13 @@
+skills:
+- keywords:
+  - HTML
+  - CSS
+  - Javascript
+  level: Master
+  name: Web Development
+- keywords:
+  - Mpeg
+  - MP4
+  - GIF
+  level: Master
+  name: Compression

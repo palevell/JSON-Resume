@@ -1,12 +1,16 @@
 #+TITLE:	JSON Resume
 #+SUBTITLE:	Log
 #+DATE:		2025-05-12 06:20:55-04:00
-#+LASTMOD: 2025-05-13 18:07:46-0400 (EDT)
+#+LASTMOD: 2025-05-14 12:36:27-0400 (EDT)
 #+OPTIONS:	toc:nil num:nil
 #+STARTUP:	indent show3levels
 #+CATEGORIES[]:	Projects
 #+TAGS[]:	log jsonresume jobhunting employment
 
+* Wednesday, May 14, 2025
+** Resume YAML
+- This is the best way to store the information that I have seen, yet
+- Created ~components/yaml~ for the various sections of the JSON/YAML document
 * Tuesday, May 13, 2025
 ** Changing Focus from Database to Python Script
 - For now, building a database for a single JSON file seems like overkill
