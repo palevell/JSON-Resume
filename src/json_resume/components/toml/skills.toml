@@ -1,0 +1,45 @@
+[[skills]]
+name = "Programming"
+level = "Proficient"
+keywords = [ "BASH", "C", "HTML", "Python", "SQL",]
+
+[[skills]]
+name = "Programming"
+level = "Experienced"
+keywords = [ "C++", "CSS", "JavaScript", "PHP",]
+
+[[skills]]
+name = "Programming"
+level = "Familiar"
+keywords = [ "GO",]
+
+[[skills]]
+name = "Libraries/Frameworks"
+level = "Proficient"
+keywords = [ "Flask", "Django", "Pandas", "SQLAlchemy",]
+
+[[skills]]
+name = "Libraries/Frameworks"
+level = "Experienced"
+keywords = [ "Jekyll", "Hugo", "Node.JS",]
+
+[[skills]]
+name = "Libraries/Frameworks"
+level = "Familiar"
+keywords = [ "Laravel", "PyQt6", "Tailwind CSS",]
+
+[[skills]]
+name = "Tools/Platforms"
+level = "Proficient"
+keywords = [ "PyCharm", "VScode", "WordPress",]
+
+[[skills]]
+name = "Tools/Platforms"
+level = "Experienced"
+keywords = [ "Emacs", "Git", "JD Edwards / EnterpriseOne",]
+
+[[skills]]
+name = "Tools/Platforms"
+level = "Familiar"
+keywords = [ "Apache", "Docker", "Heroku", "NginX",]
+

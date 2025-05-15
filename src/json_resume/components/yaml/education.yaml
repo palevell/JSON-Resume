@@ -1,8 +1,8 @@
 education:
-- area: Computer Information Systems
-  endDate: '1995-06-15'
-  institution: DeVry University
-  score: '3.75'
-  startDate: '1992-06-01'
-  studyType: Bachelor of Science
+- institution: DeVry University
   url: https://devry.edu
+  area: Computer Information Systems
+  studyType: Bachelor of Science
+  startDate: '1992-06-01'
+  endDate: '1995-06-15'
+  score: '3.75'

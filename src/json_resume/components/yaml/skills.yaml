@@ -1,13 +1,66 @@
 skills:
-- keywords:
+- name: Programming
+  level: Proficient
+  keywords:
+  - BASH
+  - C
   - HTML
+  - Python
+  - SQL
+
+- name: Programming
+  level: Experienced
+  keywords:
+  - C++
   - CSS
-  - Javascript
-  level: Master
-  name: Web Development
-- keywords:
-  - Mpeg
-  - MP4
-  - GIF
-  level: Master
-  name: Compression
+  - JavaScript
+  - PHP
+
+- name: Programming
+  level: Familiar
+  keywords:
+  - GO
+
+- name: Libraries/Frameworks
+  level: Proficient
+  keywords:
+  - Flask
+  - Django
+  - Pandas
+  - SQLAlchemy
+
+- name: Libraries/Frameworks
+  level: Experienced
+  keywords:
+    - Jekyll
+    - Hugo
+    - Node.JS
+
+- name: Libraries/Frameworks
+  level: Familiar
+  keywords:
+    - Laravel
+    - PyQt6
+    - Tailwind CSS
+
+- name: Tools/Platforms
+  level: Proficient
+  keywords:
+    - PyCharm
+    - VScode
+    - WordPress
+
+- name: Tools/Platforms
+  level: Experienced
+  keywords:
+    - Emacs
+    - Git
+    - JD Edwards / EnterpriseOne
+
+- name: Tools/Platforms
+  level: Familiar
+  keywords:
+    - Apache
+    - Docker
+    - Heroku
+    - NginX

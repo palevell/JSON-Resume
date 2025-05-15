@@ -1,0 +1,16 @@
+[basics]
+name = "Patrick A. Levell"
+label = "Computer Systems Analyst"
+image = "https://media.licdn.com/dms/image/v2/D5603AQHZAOi4imti3Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1675029596103?e=1752710400&v=beta&t=PYdbayMEPFGRIBRgb_WPKjkRJ0L5_dfDLiH170DJnSM"
+email = "patrick@levell.tech"
+url = "https://levell.tech"
+summary = "Results-driven Systems Analyst / Developer, Business Analyst, and Bitcoin enthusiast with broad-based experience in enhancing system functionality and end-user productivity. Accomplished professional who has earned a reputation for consistently meeting and exceeding aggressive objectives. Effective communicator possessing excellent interpersonal and relationship-building skills."
+[[basics.profiles]]
+network = "LinkedIn"
+url = "https://linkedin.com/in/palevell"
+
+[basics.location]
+postalCode = "N6J 3R5"
+city = "London"
+countryCode = "CA"
+region = "Ontario"
