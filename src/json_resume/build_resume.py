@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # build_resume.py - Tuesday, May 13, 2025
 """ Build JSON file for my resume """
-__version__ = "0.1.0-dev0"
+__version__ = "0.1.0-dev3"
 
 import json
 import jsons
@@ -14,56 +14,47 @@ from glob import glob
 from os.path import exists, getmtime, join, lexists, realpath
 from pathlib import Path
 
-from models import Resume
+import toml
 
 __module__ = Path(__file__).resolve().stem
 _basedir = Path(__file__).resolve().parent
 
 
-def main():
-	resume = Resume()
-	print(f"Resume: {resume.name}")
-	print(f"Email: {resume.email}")
-	print("Skills")
-	print(resume.skills.programming)
-	# programming = resume.programming
-	# print(programming)
+def build_resume():
+	toml_filename = "all_components.toml"
+	json_filename = "resume.json"
+	schema = "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json"
+	build_toml(toml_filename)
+	toml2json(toml_filename, json_filename, schema=schema)
 
 
-def main_old():
-	sections = "awards basics education interests languages meta projects publications references skills volunteer work".split()
-	about_dict = {
-		"profile": "Profile"
-	}
-	awards_dict = {}
-	certificates_dict = {}
-	contact_dict = {}
-	education_dict = {}
-	employers_dict = {}
-	experience_dict = {}
-	meta_dict = {}
-	projects_dict = {}
-	publications_dict = {}
-	references_dict = {}
-	skills_dict = {}
-	volunteer_dict = {}
+def build_toml(filename: str):
+	toml_include_dir = _basedir / "components" / "toml"
+	sections = "basics work volunteer education awards publications skills languages interests references projects meta".split()
+	with open(filename, "wt") as outfile:
+		for s in sections:
+			component = toml_include_dir / f"{s}.toml"
+			print(component)
+			with open(component, "rt") as infile:
+				lines = infile.readlines()
+				outfile.writelines(lines)
+	print(filename)
+	return
 
-	resume_dict = [
-		contact_dict,
-		about_dict,
-		skills_dict,
-		experience_dict,
-		volunteer_dict,
-		employers_dict,
-		education_dict,
-		projects_dict,
-		publications_dict,
-		awards_dict,
-		certificates_dict,
-		references_dict,
-		meta_dict,
-	]
 
+def toml2json(src: str | Path, dst: str | Path, schema=None):
+	src = str(src)
+	dst = str(dst)
+	# dst = src.replace("toml", "json")
+	resume_dict = {}
+	if schema:
+		resume_dict = {"$schema": schema }
+	with open(src, "rt") as infile, open(dst, "wt") as outfile:
+		# ydata = toml.load(infile)
+		resume_dict.update(toml.load(infile))
+		json.dump(resume_dict, outfile, indent=2, sort_keys=False)
+		outfile.write("\n")
+	print(dst)
 	return
 
 
@@ -86,7 +77,7 @@ def do_nothing():
 	pass
 
 
-def dump_json(filename, dataset, append: bool=False, overwrite: bool=False) -> int:
+def dump_json_old(filename, dataset, append: bool=False, overwrite: bool=False) -> int:
 	item_count = -1
 	if type(dataset) == dict:
 		dataset = [dataset,]
@@ -116,7 +107,7 @@ def dump_json(filename, dataset, append: bool=False, overwrite: bool=False) -> i
 	return item_count
 
 
-def dump_jsons(filename, dataset, append: bool=False, overwrite: bool=False) -> int:
+def dump_jsons_old(filename, dataset, append: bool=False, overwrite: bool=False) -> int:
 	item_count = -1
 	if type(dataset) == dict:
 		dataset = [dataset,]
@@ -157,5 +148,5 @@ if __name__ == '__main__':
 	_iso_datefmt = "%Y-%m-%d %H:%M:%S%z"
 
 	init()
-	main()
+	build_resume()
 	eoj()

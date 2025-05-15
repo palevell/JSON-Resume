@@ -1,12 +1,11 @@
-[[projects]]
-description = "A mapping engine that misguides you"
-endDate = "2016-08-24"
-entity = "Smoogle"
-highlights = [ "Won award at AIHacks 2016", "Built by all women team of newbie programmers", "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript",]
-keywords = [ "GoogleMaps", "Chrome Extension", "Javascript",]
-name = "Miss Direction"
-roles = [ "Team lead", "Designer",]
-startDate = "2016-08-24"
-type = "application"
-url = "http://missdirection.example.com"
-
+# [[projects]]
+# name = "Miss Direction"
+# description = "A mapping engine that misguides you"
+# highlights = [ "Won award at AIHacks 2016", "Built by all women team of newbie programmers", "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript",]
+# keywords = [ "GoogleMaps", "Chrome Extension", "Javascript",]
+# startDate = "2016-08-24"
+# endDate = "2016-08-24"
+# url = "http://missdirection.example.com"
+# roles = [ "Team lead", "Designer",]
+# entity = "Smoogle"
+# type = "application"

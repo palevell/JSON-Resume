@@ -18,7 +18,7 @@ __module__ = Path(__file__).resolve().stem
 _basedir = Path(__file__).resolve().parent
 
 
-def main():
+def build_toml():
 	filename = "all_components.toml"
 	toml_include_dir = _basedir / "components" / "toml"
 	sections = "basics work volunteer education awards publications skills languages interests references projects meta".split()
@@ -62,5 +62,5 @@ if __name__ == '__main__':
 	_iso_datefmt = "%Y-%m-%d %H:%M:%S%z"
 
 	init()
-	main()
+	build_toml()
 	eoj()

@@ -1,0 +1,182 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Patrick A. Levell",
+    "label": "Computer Systems Analyst",
+    "image": "https://media.licdn.com/dms/image/v2/D5603AQHZAOi4imti3Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1675029596103?e=1752710400&v=beta&t=PYdbayMEPFGRIBRgb_WPKjkRJ0L5_dfDLiH170DJnSM",
+    "email": "patrick@levell.tech",
+    "url": "https://levell.tech",
+    "summary": "Results-driven Systems Analyst / Developer, Business Analyst, and Bitcoin enthusiast with broad-based experience in enhancing system functionality and end-user productivity. Accomplished professional who has earned a reputation for consistently meeting and exceeding aggressive objectives. Effective communicator possessing excellent interpersonal and relationship-building skills.",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "palevell",
+        "url": "https://linkedin.com/in/palevell"
+      }
+    ],
+    "location": {
+      "postalCode": "N6J 3R5",
+      "city": "London",
+      "countryCode": "CA",
+      "region": "Ontario"
+    }
+  },
+  "work": [
+    {
+      "name": "Self-Employed",
+      "location": "London, Ontario, Canada",
+      "description": "Freelance IT Guy at Large",
+      "position": "Managing Director",
+      "startDate": "2012-02-02",
+      "summary": "Offering clients 15+ years experience in corporate IT",
+      "highlights": [
+        "Mentoring clients in building and maintaining their online presence",
+        "Performing as technical liason for clients with service providers",
+        "Administering client web-sites and databases",
+        "Migrating web-sites to new servers"
+      ]
+    },
+    {
+      "name": "Raymond Corporation",
+      "location": "Greene, New York, USA",
+      "description": "Raymond is the #1 fork-lift manufacturer in North America",
+      "position": "Programmer/Analyst",
+      "url": "https://raymondcorp.com",
+      "startDate": "2007-10-08",
+      "endDate": "2012-02-02",
+      "summary": "Designed, developed, maintained cross-functional enterprise applications, including iWarehlouse",
+      "highlights": [
+        "Using JDEdwards EnterpriseOne ERP forms and reports in combination with VB.Net and SQL Reporting Services in delivering optimized business solutions for National Accounts, Sales & Marketing, Warranty Services, and the Raymond dealer network.",
+        "Developing, designing, implementing, testing and maintaining the iWarehouseTM Fleet Optimization System, Raymond\u2019s first commercial software offering",
+        "Working closely with executives, consultants, customers, suppliers, and end-users to define and refine requirements for Raymond\u2019s IT infrastructure",
+        "Monitoring and troubleshooting issues in JDEdwards, data warehouse, and iWarehouse",
+        "Developing strategy for streamlining operations by integrating business processes",
+        "Supervising consultants and junior programmers working on a variety of projects"
+      ]
+    },
+    {
+      "name": "NUCOR Vulcraft - Florence",
+      "location": "Florence, South Carolina, USA",
+      "description": "Nucor is the #1 steel manufacturer and recycler in North America",
+      "position": "Computer Systems Analyst / Developer",
+      "url": "https://nucor.com",
+      "startDate": "1997-11-18",
+      "endDate": "2007-01-06",
+      "summary": "Designing, developing, implementing, testing, and maintaining custom applications and reports in JDEdwards OneWorld ERP/MRP for Engineering, EMS/QMS, and other business systems\n",
+      "highlights": [
+        " Developing specialized reports & applications with JDEdwards, SQL queries, Excel, Access and VB/VB.Net/SQL Server",
+        " Working closely with end users in defining and \u201cfine tuning\u201d requirements & creating documentation",
+        "Training and supporting JD Edwards users in Finance, MRP, Sales, Purchasing, and Inventory modules"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "DeVry University",
+      "url": "https://devry.edu",
+      "area": "Computer Information Systems",
+      "studyType": "Bachelor of Science",
+      "startDate": "1992-06-01",
+      "endDate": "1995-06-15",
+      "score": "3.62 (Honours)"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Proficient",
+      "keywords": [
+        "BASH",
+        "C",
+        "HTML",
+        "Python",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Experienced",
+      "keywords": [
+        "C++",
+        "CSS",
+        "JavaScript",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Familiar",
+      "keywords": [
+        "GO"
+      ]
+    },
+    {
+      "name": "Libraries/Frameworks",
+      "level": "Proficient",
+      "keywords": [
+        "Flask",
+        "Django",
+        "Pandas",
+        "SQLAlchemy"
+      ]
+    },
+    {
+      "name": "Libraries/Frameworks",
+      "level": "Experienced",
+      "keywords": [
+        "Jekyll",
+        "Hugo",
+        "Node.JS"
+      ]
+    },
+    {
+      "name": "Libraries/Frameworks",
+      "level": "Familiar",
+      "keywords": [
+        "Laravel",
+        "PyQt6",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "name": "Tools/Platforms",
+      "level": "Proficient",
+      "keywords": [
+        "PyCharm",
+        "VScode",
+        "WordPress"
+      ]
+    },
+    {
+      "name": "Tools/Platforms",
+      "level": "Experienced",
+      "keywords": [
+        "Emacs",
+        "Git",
+        "JD Edwards / EnterpriseOne"
+      ]
+    },
+    {
+      "name": "Tools/Platforms",
+      "level": "Familiar",
+      "keywords": [
+        "Apache",
+        "Docker",
+        "Heroku",
+        "NginX"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/sample.resume.json",
+    "version": "v1.0.1",
+    "lastModified": "2025-05-15T15:53:00",
+    "theme": "jsonresume-theme-stackoverflow"
+  }
+}

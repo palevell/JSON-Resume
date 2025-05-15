@@ -1,11 +1,73 @@
 [[work]]
-name = "Pied Piper"
-location = "Palo Alto, CA"
-description = "Awesome compression company"
-position = "CEO/President"
-url = "http://piedpiper.example.com"
-startDate = "2013-12-01"
-endDate = "2014-12-01"
-summary = "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression."
-highlights = [ "Build an algorithm for artist to detect if their music was violating copy right infringement laws", "Successfully won Techcrunch Disrupt", "Optimized an algorithm that holds the current world record for Weisman Scores",]
+name = "Self-Employed"
+location = "London, Ontario, Canada"
+description = "Freelance IT Guy at Large"
+position = "Managing Director"
+# url = ""
+startDate = "2012-02-02"
+# endDate = ""
+summary = "Offering clients 15+ years experience in corporate IT"
+highlights = [
+	"Mentoring clients in building and maintaining their online presence",
+	"Performing as technical liason for clients with service providers",
+	"Administering client web-sites and databases",
+	"Migrating web-sites to new servers",
+]
+
+[[work]]
+name = "Raymond Corporation"
+location = "Greene, New York, USA"
+description = "Raymond is the #1 fork-lift manufacturer in North America"
+position = "Programmer/Analyst"
+url = "https://raymondcorp.com"
+startDate = "2007-10-08"
+endDate = "2012-02-02"
+summary = "Designed, developed, maintained cross-functional enterprise applications, including iWarehlouse"
+highlights = [
+	"""Using JDEdwards EnterpriseOne ERP forms and reports in combination \
+	with VB.Net and SQL Reporting Services in delivering optimized business solutions for \
+	National Accounts, Sales & Marketing, Warranty Services, and the Raymond dealer network.""",
+	"""Developing, designing, implementing, testing and maintaining the iWarehouseTM \
+	Fleet Optimization System, Raymond’s first commercial software offering""",
+	"""Working closely with executives, consultants, customers, suppliers, and end-users \
+	to define and refine requirements for Raymond’s IT infrastructure""",
+	"Monitoring and troubleshooting issues in JDEdwards, data warehouse, and iWarehouse",
+	"Developing strategy for streamlining operations by integrating business processes",
+	"Supervising consultants and junior programmers working on a variety of projects",
+]
+
+[[work]]
+name = "NUCOR Vulcraft - Florence"
+location = "Florence, South Carolina, USA"
+description = "Nucor is the #1 steel manufacturer and recycler in North America"
+position = "Computer Systems Analyst / Developer"
+url = "https://nucor.com"
+startDate = "1997-11-18"
+endDate = "2007-01-06"
+summary = """Designing, developing, implementing, testing, and maintaining custom \
+	applications and reports in JDEdwards OneWorld ERP/MRP for Engineering, EMS/QMS, \
+	and other business systems
+"""
+highlights = [
+	""" Developing specialized reports & applications with JDEdwards, SQL queries, \
+		Excel, Access and VB/VB.Net/SQL Server""",
+	""" Working closely with end users in defining and “fine tuning” requirements \
+		& creating documentation""",
+	"""Training and supporting JD Edwards users in Finance, MRP, Sales, Purchasing, \
+		and Inventory modules""",
+]
+
+#:Computer Systems Analyst / Developer:
+#	- Designing, developing, implementing, testing, and maintaining custom applications and reports in JDEdwards OneWorld ERP/MRP for Engineering, EMS/QMS, and other business systems
+#	- Developing specialized reports & applications with JDEdwards, SQL queries, Excel, Access and VB/VB.Net/SQL Server
+#	- Working closely with end users in defining and “fine tuning” requirements & creating documentation
+#	- Training and supporting JD Edwards users in Finance, MRP, Sales, Purchasing, and Inventory modules
+
+#:Programmer / Analyst:
+#	- Using JDEdwards EnterpriseOne ERP forms and reports in combination with VB.Net and SQL Reporting Services in delivering optimized business solutions for National Accounts, Sales & Marketing, Warranty Services, and the Raymond dealer network
+#	- Developing, designing, implementing, testing and maintaining the iWarehouseTM Fleet Optimization System, Raymond’s first commercial software offering
+#	- Working closely with executives, consultants, customers, suppliers, and end-users to define and refine requirements for Raymond’s IT infrastructure
+#	- Monitoring and troubleshooting issues in JDEdwards, data warehouse, and iWarehouse
+#	- Developing strategy for streamlining operations by integrating business processes
+#	- Supervising consultants and junior programmers working on a variety of projects
 

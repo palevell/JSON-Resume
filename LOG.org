@@ -1,7 +1,7 @@
 #+TITLE:	JSON Resume
 #+SUBTITLE:	Log
 #+DATE:		2025-05-12 06:20:55-04:00
-#+LASTMOD: 2025-05-15 03:39:22-0400 (EDT)
+#+LASTMOD: 2025-05-15 17:58:50-0400 (EDT)
 #+OPTIONS:	toc:nil num:nil
 #+STARTUP:	indent show3levels
 #+CATEGORIES[]:	Projects
@@ -12,6 +12,8 @@
 - After working with a few YAML components, I quickly remembered why TOML has become popular
 - Created ~components/toml~ for the various sections of the JSON/TOML documents
 - Created ~json2toml.py~, ~toml2json.py~, and ~build_toml.py~ for converting document formats & assembling components
+** Resume JSON
+- Deployed to [[https://levell.tech/resume.html][levell.tech]]
 * Wednesday, May 14, 2025
 ** Resume YAML
 - This is the best way to store the information that I have seen, yet

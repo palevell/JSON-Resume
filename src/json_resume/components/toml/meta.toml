@@ -1,4 +1,5 @@
 [meta]
 canonical = "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/sample.resume.json"
-lastModified = "2025-05-14T11:17:34-04:00"
-version = "v1.0.0"
+version = "v1.0.1"
+lastModified = "2025-05-15T15:53:00"
+theme = "jsonresume-theme-stackoverflow"

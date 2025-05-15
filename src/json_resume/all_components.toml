@@ -4,10 +4,15 @@ label = "Computer Systems Analyst"
 image = "https://media.licdn.com/dms/image/v2/D5603AQHZAOi4imti3Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1675029596103?e=1752710400&v=beta&t=PYdbayMEPFGRIBRgb_WPKjkRJ0L5_dfDLiH170DJnSM"
 email = "patrick@levell.tech"
 url = "https://levell.tech"
-summary = "Results-driven Systems Analyst / Developer, Business Analyst, and Bitcoin enthusiast with broad-based experience in enhancing system functionality and end-user productivity. Accomplished professional who has earned a reputation for consistently meeting and exceeding aggressive objectives. Effective communicator possessing excellent interpersonal and relationship-building skills."
+summary = """Results-driven Systems Analyst / Developer, Business Analyst, \
+	and Bitcoin enthusiast with broad-based experience in enhancing system functionality \
+	and end-user productivity. Accomplished professional who has earned a reputation for \
+	consistently meeting and exceeding aggressive objectives. Effective communicator \
+	possessing excellent interpersonal and relationship-building skills."""
 
 [[basics.profiles]]
 network = "LinkedIn"
+username = "palevell"
 url = "https://linkedin.com/in/palevell"
 
 [basics.location]
@@ -15,27 +20,87 @@ postalCode = "N6J 3R5"
 city = "London"
 countryCode = "CA"
 region = "Ontario"
+[[work]]
+name = "Self-Employed"
+location = "London, Ontario, Canada"
+description = "Freelance IT Guy at Large"
+position = "Managing Director"
+# url = ""
+startDate = "2012-02-02"
+# endDate = ""
+summary = "Offering clients 15+ years experience in corporate IT"
+highlights = [
+	"Mentoring clients in building and maintaining their online presence",
+	"Performing as technical liason for clients with service providers",
+	"Administering client web-sites and databases",
+	"Migrating web-sites to new servers",
+]
 
 [[work]]
-name = "Pied Piper"
-location = "Palo Alto, CA"
-description = "Awesome compression company"
-position = "CEO/President"
-url = "http://piedpiper.example.com"
-startDate = "2013-12-01"
-endDate = "2014-12-01"
-summary = "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression."
-highlights = [ "Build an algorithm for artist to detect if their music was violating copy right infringement laws", "Successfully won Techcrunch Disrupt", "Optimized an algorithm that holds the current world record for Weisman Scores",]
+name = "Raymond Corporation"
+location = "Greene, New York, USA"
+description = "Raymond is the #1 fork-lift manufacturer in North America"
+position = "Programmer/Analyst"
+url = "https://raymondcorp.com"
+startDate = "2007-10-08"
+endDate = "2012-02-02"
+summary = "Designed, developed, maintained cross-functional enterprise applications, including iWarehlouse"
+highlights = [
+	"""Using JDEdwards EnterpriseOne ERP forms and reports in combination \
+	with VB.Net and SQL Reporting Services in delivering optimized business solutions for \
+	National Accounts, Sales & Marketing, Warranty Services, and the Raymond dealer network.""",
+	"""Developing, designing, implementing, testing and maintaining the iWarehouseTM \
+	Fleet Optimization System, Raymond’s first commercial software offering""",
+	"""Working closely with executives, consultants, customers, suppliers, and end-users \
+	to define and refine requirements for Raymond’s IT infrastructure""",
+	"Monitoring and troubleshooting issues in JDEdwards, data warehouse, and iWarehouse",
+	"Developing strategy for streamlining operations by integrating business processes",
+	"Supervising consultants and junior programmers working on a variety of projects",
+]
 
-[[volunteer]]
-endDate = "2013-01-01"
-highlights = [ "Awarded 'Teacher of the Month'",]
-organization = "CoderDojo"
-position = "Teacher"
-startDate = "2012-01-01"
-summary = "Global movement of free coding clubs for young people."
-url = "http://coderdojo.example.com/"
+[[work]]
+name = "NUCOR Vulcraft - Florence"
+location = "Florence, South Carolina, USA"
+description = "Nucor is the #1 steel manufacturer and recycler in North America"
+position = "Computer Systems Analyst / Developer"
+url = "https://nucor.com"
+startDate = "1997-11-18"
+endDate = "2007-01-06"
+summary = """Designing, developing, implementing, testing, and maintaining custom \
+	applications and reports in JDEdwards OneWorld ERP/MRP for Engineering, EMS/QMS, \
+	and other business systems
+"""
+highlights = [
+	""" Developing specialized reports & applications with JDEdwards, SQL queries, \
+		Excel, Access and VB/VB.Net/SQL Server""",
+	""" Working closely with end users in defining and “fine tuning” requirements \
+		& creating documentation""",
+	"""Training and supporting JD Edwards users in Finance, MRP, Sales, Purchasing, \
+		and Inventory modules""",
+]
 
+#:Computer Systems Analyst / Developer:
+#	- Designing, developing, implementing, testing, and maintaining custom applications and reports in JDEdwards OneWorld ERP/MRP for Engineering, EMS/QMS, and other business systems
+#	- Developing specialized reports & applications with JDEdwards, SQL queries, Excel, Access and VB/VB.Net/SQL Server
+#	- Working closely with end users in defining and “fine tuning” requirements & creating documentation
+#	- Training and supporting JD Edwards users in Finance, MRP, Sales, Purchasing, and Inventory modules
+
+#:Programmer / Analyst:
+#	- Using JDEdwards EnterpriseOne ERP forms and reports in combination with VB.Net and SQL Reporting Services in delivering optimized business solutions for National Accounts, Sales & Marketing, Warranty Services, and the Raymond dealer network
+#	- Developing, designing, implementing, testing and maintaining the iWarehouseTM Fleet Optimization System, Raymond’s first commercial software offering
+#	- Working closely with executives, consultants, customers, suppliers, and end-users to define and refine requirements for Raymond’s IT infrastructure
+#	- Monitoring and troubleshooting issues in JDEdwards, data warehouse, and iWarehouse
+#	- Developing strategy for streamlining operations by integrating business processes
+#	- Supervising consultants and junior programmers working on a variety of projects
+
+# [[volunteer]]
+#organization = "CoderDojo"
+#position = "Teacher"
+#url = "http://coderdojo.example.com/"
+#startDate = "2012-01-01"
+#endDate = "2013-01-01"
+#summary = "Global movement of free coding clubs for young people."
+#highlights = [ "Awarded 'Teacher of the Month'",]
 [[education]]
 institution = "DeVry University"
 url = "https://devry.edu"
@@ -43,21 +108,18 @@ area = "Computer Information Systems"
 studyType = "Bachelor of Science"
 startDate = "1992-06-01"
 endDate = "1995-06-15"
-score = "3.75"
-
-[[awards]]
-awarder = "Techcrunch"
-date = "2014-11-01"
-summary = "There is no spoon."
-title = "Digital Compression Pioneer Award"
-
-[[publications]]
-name = "Video compression for 3d media"
-publisher = "Hooli"
-releaseDate = "2014-10-01"
-summary = "Innovative middle-out compression algorithm that changes the way we store data."
-url = "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-
+score = "3.62 (Honours)"
+# [[awards]]
+# awarder = "Techcrunch"
+# date = "2014-11-01"
+# summary = "There is no spoon."
+# title = "Digital Compression Pioneer Award"
+# [[publications]]
+# name = "Video compression for 3d media"
+# publisher = "Hooli"
+# releaseDate = "2014-10-01"
+# url = "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
+# summary = "Innovative middle-out compression algorithm that changes the way we store data."
 [[skills]]
 name = "Programming"
 level = "Proficient"
@@ -104,29 +166,28 @@ level = "Familiar"
 keywords = [ "Apache", "Docker", "Heroku", "NginX",]
 
 [[languages]]
-fluency = "Native speaker"
 language = "English"
+fluency = "Native speaker"
 
-[[interests]]
-keywords = [ "Ferrets", "Unicorns",]
-name = "Wildlife"
-
-[[references]]
-name = "Upon request"
-
-[[projects]]
-description = "A mapping engine that misguides you"
-endDate = "2016-08-24"
-entity = "Smoogle"
-highlights = [ "Won award at AIHacks 2016", "Built by all women team of newbie programmers", "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript",]
-keywords = [ "GoogleMaps", "Chrome Extension", "Javascript",]
-name = "Miss Direction"
-roles = [ "Team lead", "Designer",]
-startDate = "2016-08-24"
-type = "application"
-url = "http://missdirection.example.com"
-
+# [[interests]]
+# name = "Wildlife"
+# keywords = [ "Ferrets", "Unicorns",]
+# [[references]]
+# name = "Upon request"
+# reference = ""
+# [[projects]]
+# name = "Miss Direction"
+# description = "A mapping engine that misguides you"
+# highlights = [ "Won award at AIHacks 2016", "Built by all women team of newbie programmers", "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript",]
+# keywords = [ "GoogleMaps", "Chrome Extension", "Javascript",]
+# startDate = "2016-08-24"
+# endDate = "2016-08-24"
+# url = "http://missdirection.example.com"
+# roles = [ "Team lead", "Designer",]
+# entity = "Smoogle"
+# type = "application"
 [meta]
 canonical = "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/sample.resume.json"
-lastModified = "2025-05-14T11:17:34-04:00"
-version = "v1.0.0"
+version = "v1.0.1"
+lastModified = "2025-05-15T15:53:00"
+theme = "jsonresume-theme-stackoverflow"

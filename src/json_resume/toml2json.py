@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # toml2json.py - Thursday, May 15, 2025
 # -*- coding: utf-8 -*-
-__version__ = "0.1.0-dev12"
+__version__ = "0.1.0-dev15"
 
 import json
 import os
@@ -17,7 +17,7 @@ def usage():
 	return
 
 
-def main(filename: str | Path):
+def toml2json(filename: str | Path):
 	src = str(filename)
 	# dst = src.rstrip("toml") + "json"
 	dst = src.replace("toml", "json")
@@ -25,7 +25,8 @@ def main(filename: str | Path):
 		# data = infile.read()
 		# print(data)
 		ydata = toml.load(infile)
-		json.dump(ydata, outfile, indent=True, sort_keys=False)
+		json.dump(ydata, outfile, indent=2, sort_keys=False)
+		outfile.write("\n")
 		do_nothing()
 	print(dst)
 	return
@@ -40,10 +41,10 @@ if __name__ == "__main__":
 	_jsondir = _basedir / "components" / "json"
 	_tomldir = _basedir / "components" / "toml"
 	if len(sys.argv) > 1:
-		main(sys.argv[1])
+		toml2json(sys.argv[1])
 	else:
 		# usage()
-		filename = _refdir / "resume-sample.toml"
-		# filename = _tomldir / "basics.toml"
+		# filename = _refdir / "resume-sample.toml"
+		filename = _tomldir / "basics.toml"
 		# filename = _tomldir / "skills.toml"
-		main(filename)
+		toml2json(filename)
